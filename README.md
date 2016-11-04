@@ -31,8 +31,17 @@ const calendarOptions = {
         // should return an array of events
     },
 };
-  
-export const CalendarExample = () => <Calendar options={calendarOptions}/>;
+
+const onDateChanged = (startDate, endDate) => {
+    // make some actions with new dates
+};
+ 
+export const CalendarExample = () => {
+    <FullCalendar
+        options={calendarOptions}
+        onDateChanged={onDateChanged}
+    />;
+};
 
 ```
 

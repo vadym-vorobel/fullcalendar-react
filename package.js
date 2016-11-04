@@ -1,6 +1,6 @@
 Package.describe({
   name: 'jss:fullcalendar-react',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'React wrapper for fullcalendar',
   git: 'https://github.com/alonoslav/fullcalendar-react',
   documentation: 'README.md',
@@ -15,7 +15,7 @@ Package.onUse(function (api) {
     'jquery',
   ]);
 
-  api.mainModule('lib/fullcalendar-react.js', 'client');
+  api.mainModule('lib/FullCalendar.js', 'client');
 });
 
 Npm.depends({
