@@ -1,8 +1,8 @@
-# alonoslav:fullcalendar-react
+# jss:fullcalendar-react
 
 Provide a FullCalendar ReactJS component. Also, available scheduler functionality.
 
-### More about core package:
+### More about core packages:
 * fullcalendar - https://fullcalendar.io/
 * fullcalendar-scheduler - https://fullcalendar.io/scheduler/
 
@@ -10,7 +10,7 @@ Provide a FullCalendar ReactJS component. Also, available scheduler functionalit
 ```js
 import React from 'react';
 
-import { Calendar } from 'meteor/alonoslav:calendar';
+import { FullCalendar } from 'meteor/alonoslav:calendar';
 
 const calendarOptions = {
     id: 'calendar-example',
