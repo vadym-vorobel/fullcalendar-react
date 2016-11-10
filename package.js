@@ -1,6 +1,6 @@
 Package.describe({
   name: 'jss:fullcalendar-react',
-  version: '0.0.2',
+  version: '0.0.3',
   summary: 'React wrapper for fullcalendar',
   git: 'https://github.com/alonoslav/fullcalendar-react',
   documentation: 'README.md',
