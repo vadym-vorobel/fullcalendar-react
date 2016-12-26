@@ -1,6 +1,6 @@
 Package.describe({
   name: 'jss:fullcalendar-react',
-  version: '0.0.5',
+  version: '0.0.6',
   summary: 'React wrapper for fullcalendar',
   git: 'https://github.com/alonoslav/fullcalendar-react',
   documentation: 'README.md',
@@ -12,7 +12,6 @@ Package.onUse(function (api) {
 
   api.use([
     'ecmascript',
-    'jquery',
   ]);
 
   api.mainModule('lib/FullCalendar.js', 'client');

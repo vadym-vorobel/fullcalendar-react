@@ -1,14 +1,14 @@
 {
   "dependencies": {
     "fullcalendar": {
-      "version": "3.0.1",
-      "resolved": "https://registry.npmjs.org/fullcalendar/-/fullcalendar-3.0.1.tgz",
-      "from": "fullcalendar@3.0.1"
+      "version": "3.1.0",
+      "resolved": "https://registry.npmjs.org/fullcalendar/-/fullcalendar-3.1.0.tgz",
+      "from": "fullcalendar@3.1.0"
     },
     "fullcalendar-scheduler": {
-      "version": "1.4.0",
-      "resolved": "https://registry.npmjs.org/fullcalendar-scheduler/-/fullcalendar-scheduler-1.4.0.tgz",
-      "from": "fullcalendar-scheduler@1.4.0"
+      "version": "1.5.0",
+      "resolved": "https://registry.npmjs.org/fullcalendar-scheduler/-/fullcalendar-scheduler-1.5.0.tgz",
+      "from": "fullcalendar-scheduler@1.5.0"
     },
     "jquery": {
       "version": "3.1.1",
@@ -16,8 +16,8 @@
       "from": "jquery@>=2.0.0"
     },
     "moment": {
-      "version": "2.15.2",
-      "resolved": "https://registry.npmjs.org/moment/-/moment-2.15.2.tgz",
+      "version": "2.17.1",
+      "resolved": "https://registry.npmjs.org/moment/-/moment-2.17.1.tgz",
       "from": "moment@>=2.9.0"
     }
   }
