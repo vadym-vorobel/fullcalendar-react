@@ -10,7 +10,7 @@ Provide a FullCalendar ReactJS component. Also, available scheduler functionalit
 ```js
 import React from 'react';
 
-import { FullCalendar } from 'meteor/alonoslav:calendar';
+import { FullCalendar } from 'meteor/jss:fullcalendar-react';
 
 const calendarOptions = {
     id: 'calendar-example',
