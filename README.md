@@ -7,43 +7,7 @@ Provide a FullCalendar ReactJS component. Also, available scheduler functionalit
 * fullcalendar-scheduler - https://fullcalendar.io/scheduler/
 
 ### Example
-```js
-import React from 'react';
-
-import { FullCalendar } from 'meteor/jss:fullcalendar-react';
-
-const calendarOptions = {
-    id: 'calendar-example',
-    defaultView: 'agendaDay',
-    defaultDate: new Date(),
-    editable: true,
-    droppable: true,
-    schedulerLicenseKey: 'CC-Attribution-NonCommercial-NoDerivatives',
-    
-    slotDuration: '00:15',
-    scrollTime: '08:00',
-    columnFormat: 'ddd DD/MM',
-    displayTime: true,
-    firstDay: 1,
-    
-    // also can be array or json feed
-    events() {
-        // should return an array of events
-    },
-};
-
-const onDateChanged = (startDate, endDate) => {
-    // make some actions with new dates
-};
- 
-export const CalendarExample = () => {
-    <FullCalendar
-        options={calendarOptions}
-        onDateChanged={onDateChanged}
-    />;
-};
-
-```
+Go to the [examples folder](./examples)
 
 ### Dependencies
 
