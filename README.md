@@ -18,3 +18,4 @@ Go to the [examples folder](./examples)
 
 * react
 * react-dom
+* prop-types
