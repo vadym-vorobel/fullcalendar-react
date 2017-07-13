@@ -1,0 +1,17 @@
+{
+  "name": "fullcalendar-test",
+  "private": true,
+  "scripts": {
+    "firstrun": "meteor npm i",
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.23.0",
+    "fullcalendar": "^3.2.0",
+    "fullcalendar-scheduler": "^1.5.1",
+    "jquery": "^3.2.1",
+    "meteor-node-stubs": "~0.2.4",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
