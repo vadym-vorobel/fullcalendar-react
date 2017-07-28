@@ -1,5 +1,7 @@
 # jss:fullcalendar-react
 
+**MeteorJS package.**
+
 Provide a FullCalendar ReactJS component. Also, available scheduler functionality.
 
 ### More about core packages:
