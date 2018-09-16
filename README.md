@@ -9,7 +9,7 @@ Provide a FullCalendar ReactJS component. Also, available scheduler functionalit
 * fullcalendar-scheduler - https://fullcalendar.io/scheduler/
 
 ### Example
-Go to the [examples folder](./examples)
+Visit the [examples repository](https://github.com/vadym-vorobel/fullcalendar-react-examples)
 
 ### Dependencies
 
