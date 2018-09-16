@@ -1,0 +1,15 @@
+babel-compiler@7.1.1
+babel-runtime@1.2.7
+dynamic-import@0.4.2
+ecmascript@0.11.1
+ecmascript-runtime@0.7.0
+ecmascript-runtime-client@0.7.2
+ecmascript-runtime-server@0.7.1
+http@1.4.1
+jss:fullcalendar-react@0.1.1
+meteor@1.9.2
+modern-browsers@0.1.2
+modules@0.12.2
+modules-runtime@0.10.2
+promise@0.11.1
+url@1.2.0
