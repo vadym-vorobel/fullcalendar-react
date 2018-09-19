@@ -2,14 +2,14 @@
   "lockfileVersion": 1,
   "dependencies": {
     "fullcalendar": {
-      "version": "3.7.0",
-      "resolved": "https://registry.npmjs.org/fullcalendar/-/fullcalendar-3.7.0.tgz",
-      "integrity": "sha1-dDCZQ3kKAIVkfvdnHIHIUvaLSig="
+      "version": "3.9.0",
+      "resolved": "https://registry.npmjs.org/fullcalendar/-/fullcalendar-3.9.0.tgz",
+      "integrity": "sha512-bbALDK8+SBqluv8SKPDeVNtaSr87NYblte/pRgV5NnDJWCEARpRlQ1qQ/XEakcAXbMZov6rWYIvLOrtKwQo2Bg=="
     },
     "fullcalendar-scheduler": {
-      "version": "1.9.0",
-      "resolved": "https://registry.npmjs.org/fullcalendar-scheduler/-/fullcalendar-scheduler-1.9.0.tgz",
-      "integrity": "sha1-OAqJs7Qox6EdP2+ghGTMjXpyinA="
+      "version": "1.9.4",
+      "resolved": "https://registry.npmjs.org/fullcalendar-scheduler/-/fullcalendar-scheduler-1.9.4.tgz",
+      "integrity": "sha512-QJ5p/qRnK+vuiNRTbsxKCytiCu2adUn1dSlRSlPSivR/FOUL4J5XQA/4o/h6YCpIMWnmLTXPOuyqBTbsG3ydyg=="
     },
     "jquery": {
       "version": "3.3.1",
