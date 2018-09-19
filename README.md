@@ -21,3 +21,7 @@ Visit the [examples repository](https://github.com/vadym-vorobel/fullcalendar-re
 * react
 * react-dom
 * prop-types
+
+## Deprecation warning
+
+In the version v1.0.0 full calendar options `defaultDate` and `defaultView` will not be reactive because this leads to redundant calendar re-rendering. Please, use `getCalendarInstance` prop with fullcalendar methods `gotoDate` and `changeView` instead ([see the example for more details](https://github.com/vadym-vorobel/fullcalendar-react-examples/blob/master/client/components/calendar-examples/DynamicDateCalendar.js)).
