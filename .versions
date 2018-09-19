@@ -6,7 +6,7 @@ ecmascript-runtime@0.7.0
 ecmascript-runtime-client@0.7.2
 ecmascript-runtime-server@0.7.1
 http@1.4.1
-jss:fullcalendar-react@0.1.1
+jss:fullcalendar-react@1.0.0
 meteor@1.9.2
 modern-browsers@0.1.2
 modules@0.12.2
